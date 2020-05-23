@@ -1,0 +1,4 @@
+runtime: go112
+
+service: api
+instance_class: F1
